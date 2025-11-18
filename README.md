@@ -1,2 +1,2 @@
-# Imperial Year 2 Advanced Practical Physics
+# ImperialY2Labs
 Data analysis for Imperial Year 2 Laboratory experiments.
